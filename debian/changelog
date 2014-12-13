@@ -1,3 +1,9 @@
+libnetfilter-cthelper (1.0.1-4+vyos2+lithium1) unstable; urgency=low
+
+  * New branch
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sat, 13 Dec 2014 09:34:13 +0000
+ 
 libnetfilter-cthelper (1.0.1-4+vyos1+helium2) unstable; urgency=low
 
   [ Daniil Baturin ]
