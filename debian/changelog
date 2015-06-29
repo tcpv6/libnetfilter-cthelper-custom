@@ -1,3 +1,9 @@
+libnetfilter-cthelper (1.0.1-4+vyos2+lithium2) unstable; urgency=low
+
+  * libnetfilter-cthelper: add dh_gencontrol to enable development builds
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Mon, 29 Jun 2015 19:22:19 +0100
+ 
 libnetfilter-cthelper (1.0.1-4+vyos2+lithium1) unstable; urgency=low
 
   * New branch
