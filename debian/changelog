@@ -1,3 +1,11 @@
+libnetfilter-cthelper (1.0.0-5+vyos2+lithium4) unstable; urgency=low
+
+  [ Alex Harpin ]
+  * libnetfilter-cthelper: update debian packaging file locations
+  * libnetfilter-cthelper: update debian packaging to include dev package
+
+ -- Alex Harpin <development@landsofshadow.co.uk>  Sun, 22 Nov 2015 09:49:41 +0000
+
 libnetfilter-cthelper (1.0.0-5+vyos2+lithium3) unstable; urgency=low
 
   [ Alex Harpin ]
