@@ -15,7 +15,7 @@ build:
 	autoreconf -i
 	
 override_dh_strip:
-	dh_strip --dbg-package=libnetfilter-cthelper0-dbg
+	dh_strip --dbg-package=libnetfilter-cthelper-dbg
 
 override_dh_gencontrol:
 	if [ -f "../.VYOS_DEV_BUILD" ]; then \
