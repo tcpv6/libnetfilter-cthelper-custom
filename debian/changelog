@@ -1,3 +1,10 @@
+libnetfilter-cthelper (1.0.0-5+vyos2+lithium4+mintel1) unstable; urgency=low
+
+  [ Jason Hendry ]
+  * Bumping version
+
+ -- Jason Hendry <jhendry@mintel.com>  Wed, 9 Nov 2016 10:10:00 +0000
+
 libnetfilter-cthelper (1.0.0-5+vyos2+lithium4) unstable; urgency=low
 
   [ Alex Harpin ]
