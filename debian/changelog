@@ -1,3 +1,13 @@
+libnetfilter-cthelper (1.0.1-4+vyos2+lithium2+mintel1) unstable; urgency=low
+
+  [ Jason Hendry ]
+  * Major update to version number. This version was downgraded in an upstream commit
+    due to previous versioning mistakes breaking our upgrade process. I am re-bumping
+    it to allow our upgrade process to work.
+    https://github.com/vyos/libnetfilter-cthelper/commit/b3581f663c344ec4170b7292bcc9aff5a4a5bdf0
+
+ -- Jason Hendry <jhendry@mintel.com>  Wed, 9 Nov 2016 10:10:00 +0000
+
 libnetfilter-cthelper (1.0.0-5+vyos2+lithium4+mintel1) unstable; urgency=low
 
   [ Jason Hendry ]
